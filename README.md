@@ -4,7 +4,7 @@ Welcome to PEx, your ultimate financial management companion! PEx offers seamles
 
 ## Download the APK
 <a href="https://github.com/shubhamranswal/PEx-PersonalExpenseManager/releases/download/APK/app-release.apk">Download PEx APK</a>
-For testing, sign in as +91 9560793525 and pin as 120920, since several deives might not support older version of Phone Auth.
+- For testing, sign in as +91 9560793525 and pin as 120920, since several deives might not support older version of Phone Auth.
 
 <img src="assets/readme/logoWithoutPaddingNoBG.png" alt="App Logo" width="150"/> 
 
