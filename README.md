@@ -3,7 +3,7 @@
 Welcome to PEx, your ultimate financial management companion! PEx offers seamless expense tracking, income management, and debt monitoring to empower your financial journey.
 
 
-![App Logo](assets/readme/logoWithoutPaddingNoBG.png)
+<img src="assets/readme/logoWithoutPaddingNoBG.png" alt="App Logo" width="150"/> 
 
 
 ## Features
