@@ -50,9 +50,9 @@ PEx is available for both **iOS** and **Android** devices.
 
 Here’s a preview of the PEx app:
 
-| ![Login Page](assets/readme/auth.jpg/150) | ![Currency Section](assets/readme/currency.jpg/150) | ![Home Section](assets/readme/home.jpg/150) |
+| ![Login Page](assets/readme/auth.jpg) | ![Currency Section](assets/readme/currency.jpg) | ![Home Section](assets/readme/home.jpg) |
 |:-----------------------------------:|:---------------------------------------:|:-----------------------------------------:|
-| ![Hindi](assets/readme/hindi.jpg/150) | ![Settings](assets/readme/settings.jpg/150) | ![Categories Options](assets/readme/predefinedcategories.jpg/150) |
+| ![Hindi](assets/readme/hindi.jpg) | ![Settings](assets/readme/settings.jpg) | ![Categories Options](assets/readme/predefinedcategories.jpg) |
 
 ## Installation
 
