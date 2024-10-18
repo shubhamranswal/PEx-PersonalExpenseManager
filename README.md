@@ -3,14 +3,12 @@
 Welcome to PEx, your ultimate financial management companion! PEx offers seamless expense tracking, income management, and debt monitoring to empower your financial journey.
 
 
-![App Logo](assets\readme\logoWithoutPaddingNoBG.png/150)
+![App Logo](assets/readme/logoWithoutPaddingNoBG.png)
 
-## Download the APK
-[Download PEx APK](https://link-to-your-apk.com)
 
 ## Features
 
-![Feature Image](assets\readme\FeatureGhrapic.png/600)
+![Feature Image](assets/readme/FeatureGhrapic.png)
 
 - **Bilingual Support**: Enjoy a user-friendly experience in multiple languages.
 - **Secure Login**: Flexible login options using email or phone number, with robust security measures.
@@ -60,7 +58,7 @@ Here’s a preview of the PEx app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shubhamranswal/pex.git
+   git clone https://github.com/shubhamranswal/PEx-PersonalExpenseManager.git
    ```
 2. Navigate to the project directory:
    ```bash
